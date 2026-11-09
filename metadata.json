@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Documentary Studio",
+  "description": "Visual storyboard dashboard orchestrating local CLI coding agents (Claude Code & OpenCode) to assemble documentary videos into CapCut Desktop drafts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

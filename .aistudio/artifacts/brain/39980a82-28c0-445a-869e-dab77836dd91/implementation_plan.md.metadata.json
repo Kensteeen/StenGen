@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for integrating Hermes Agent (hermes chat --yolo --query-file hermes_prompt.txt) with inline Provider and Model ID controls, hermes_prompt.txt generation, and Directive Inspector preview tab.",
+  "updatedAt":  "2026-11-09T08:24:09.096475134Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
